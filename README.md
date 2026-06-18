@@ -52,6 +52,7 @@ Test Case 3: Performance Metrics Report
 Select Option 7 (Generate Analytical Report).
 The program outputs a formatted terminal report:
         STUDENT PERFORMANCE ANALYTICS        
+
 Total Enrolled Students : 1
 Average Cohort GPA      : 3.92
 Highest GPA Performance : 3.92 (ID: S001, Name: Abebe Bikila)
