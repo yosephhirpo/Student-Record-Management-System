@@ -51,6 +51,7 @@ Choose Option 5. You will see Abebe Bikila is preserved safe in the original fil
 Test Case 3: Performance Metrics Report
 Select Option 7 (Generate Analytical Report).
 The program outputs a formatted terminal report:
+       
         STUDENT PERFORMANCE ANALYTICS        
 
 Total Enrolled Students : 1
