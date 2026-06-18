@@ -1,4 +1,4 @@
-    Student Record Management System 
+Student Record Management System 
 This README describes the system architecture, file layouts, and execution steps for the Student Record Management System implemented in StudentRecordManager.java.
 
 1. System Design Architecture
@@ -50,7 +50,6 @@ Choose Option 5. You will see Abebe Bikila is preserved safe in the original fil
 Test Case 3: Performance Metrics Report
 Select Option 7 (Generate Analytical Report).
 The program outputs a formatted terminal report:
-
         STUDENT PERFORMANCE ANALYTICS        
 Total Enrolled Students : 1
 Average Cohort GPA      : 3.92
