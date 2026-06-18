@@ -1,0 +1,8 @@
+001,Yoseph Hirpo,Software Engineering,4.00
+002,Nathan Tesfaye,Computer Science,3.20
+003,Eleni Tsegaye,Information Systems,2.90
+004,Aaron Bekele,Software Engineering,3.85
+005,Bereket Adeyemi,Computer Science,3.10
+
+
+
